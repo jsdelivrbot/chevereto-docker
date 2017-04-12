@@ -1,7 +1,7 @@
 [cheveretourl]: https://chevereto.com/
 [cheveretogithub]: https://github.com/Chevereto/Chevereto-Free
-[createdbscript]: https://raw.githubusercontent.com/hannah98/docker-containers/master/chevereto/create_database.sh
-
+[createdbscript]: https://raw.githubusercontent.com/hannah98/chevereto-docker/master/create_database.sh
+                  
 
 [![chevereto](http://chevereto.com/app/themes/v3/img/chevereto-blue.svg)][cheveretourl]
 
